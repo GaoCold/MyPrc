@@ -9,7 +9,10 @@ for further information.
 
 short:: is a standard qooxdoo GUI application
 copy_file:: tool/data/generator/needs_generation.js source/script/custom.js
-发撒发生发生
+鍙戞拻鍙戠敓鍙戠敓
 
 
-啊萨达萨达撒
+鍟婅惃杈捐惃杈炬拻
+
+
+鏃犵悊
